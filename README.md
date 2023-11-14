@@ -1,2 +1,2 @@
 # TicTacToe
-This project uses a recursive minimax algorithm to create an unbeatable opponent.
+This project uses Object Oriented Programming and a Recursive MiniMax Algorithm to create an unbeatable opponent.
